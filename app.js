@@ -44,3 +44,4 @@ async function detect(e) {
 }
 
 // excel sheet here: https://docs.google.com/spreadsheets/d/16zPJ4cXraN36IhKipOnWjGHh5AwEI9gVQSzp_xMl52Y/edit#gid=0
+// site here: https://www.npmjs.com/package/html-form-send-email-via-google-script-without-server?activeTab=readme
